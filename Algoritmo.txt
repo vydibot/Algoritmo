@@ -1,5 +1,7 @@
-1. Obtener la cadena de entrada.
-2. Determinar la cantidad de caracteres en la cadena. 
-3. Modificar cada uno de los caracteres de la cadena original 
-4. Volver a modicar cada uno de los caracteres en la cadena
-5. Mostrar los resultados finales
+1. Crear variables basicas.
+2. Obtener la cadena de entrada.
+3. Determinar la cantidad de caracteres en la cadena. 
+4. Asignar dimension a la palabra encriptada 1 y la palabra encriptada 2.
+5. Modificar cada uno de los caracteres en la cadena.
+6. Volver a modicar cada uno de los caracteres en la cadena.
+7. Mostrar la cadena, la palabra encriptada 1 y la palabra encriptada 2.
